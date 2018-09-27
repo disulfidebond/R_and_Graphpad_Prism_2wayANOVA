@@ -48,7 +48,6 @@ Due to a "quirk" in how R operates, this is divided into seven sections: The two
 
 
 ### Two-Way ANOVA using R
-* Preliminaries
 R can do a lot of the analysis for you, but you *must* format the data properly.  This can either be done within R, in Excel, or by manually entering the values.
 
 To run an ANOVA in R, you must provide R the values as well as the grouping (in this case, the factor) for the values.
