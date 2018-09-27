@@ -2,7 +2,7 @@
 
 ### Synopsis:
 
-ANOVA is short for ANalysis Of VAriance.  A two-way ANOVA expands on a [one-way ANOVA](https://dholk.primate.wisc.edu/project/dho/experiments/21507/begin.view?) by contrasting row values *and* column values..  It is [primarily designed to work with normal data](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/what-is-the-difference-between-categorical-ordinal-and-interval-variables/).  If you think you may be using the wrong test, [see this useful reference](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/), or the attached PDF "Categorical_Data.PDF".
+ANOVA is short for ANalysis Of VAriance.  A two-way ANOVA expands on a [one-way ANOVA](https://dholk.primate.wisc.edu/project/dho/experiments/21507/begin.view?) by contrasting row values *and* column values.  It is [primarily designed to work with normal data](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/what-is-the-difference-between-categorical-ordinal-and-interval-variables/).  If you think you may be using the wrong test, [see this useful reference](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/), or the attached PDF "Categorical_Data.PDF".
 
 Due to a "quirk" in how R operates, this is divided into seven sections: The two-way ANOVA in GraphPad Prism, two-way ANOVA in R, Multiple Hypothesis testing in GraphPad Prism (four are listed), and finally, Multiple Hypothesis Testing in R.
 
