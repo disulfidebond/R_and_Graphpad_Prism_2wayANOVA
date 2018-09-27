@@ -96,7 +96,7 @@ Must be formatted like this, if you wish you can assign the column names of 'Sam
         C      4     gene5
 
 
-There are several ways to do this in R; here is one possibility using the attached file "dataset4R.csv"
+There are several ways to do this in R; here is one possibility using the attached file "dataset4R-2wayANOVA.csv"
 
         rData <- reac.csv('dataset4R-ANOVA2.csv')
         # format the dataframe by using the data.frame() command to create a new dataframe from the old one
